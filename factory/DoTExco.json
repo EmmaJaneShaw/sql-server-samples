@@ -1,0 +1,9 @@
+{
+	"name": "DoTExco",
+	"location": "australiasoutheast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c3fe1c28-e7d4-4201-aed3-698b2d9cd699",
+		"tenantId": "2d4557f8-1afb-47df-81a9-40e412e684d6"
+	}
+}
